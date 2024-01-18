@@ -17,6 +17,3 @@ D
 java-collections.iml,a/2/a2192aa2130355074f27c956f1e769d0f9cb649a
 i
 9java-collections/src/main/java/list/ArrayListExample.java,5/b/5ba3b728ab687c7c1723da258b0d20bf2dd4f378
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
